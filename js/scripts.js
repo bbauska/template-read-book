@@ -1,4 +1,4 @@
-/* /js/script.js of template-read-book for template.bauska.org */
+/* /js/scripts.js of template-read-book for template.bauska.org */
 /* hide these elements on page load */
 $('#main-menu, .menu-close').hide();
 
